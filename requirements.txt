@@ -1,0 +1,11 @@
+asgiref==3.8.1
+Django==5.0.9
+django-crispy-forms==2.3
+django-taggit==5.0.1
+Markdown==3.6
+psycopg==3.1.18
+python-decouple==3.8
+setuptools==62.1.0
+sqlparse==0.5.1
+typing_extensions==4.12.2
+wheel==0.37.1
